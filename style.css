@@ -1,0 +1,33 @@
+*
+{
+
+    font-family: "Andale Mono", monospace;
+    background-color: #F2E6CE;
+
+}
+
+h1,
+h2,
+h3
+{
+
+    color: #591218;
+    font-weight: bold;
+
+}
+
+ul,
+ol,
+p
+{
+
+    color: #D94F30;
+
+}
+
+.recipe-links
+{
+
+    font-weight: bold;
+
+}
